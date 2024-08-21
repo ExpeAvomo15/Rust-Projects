@@ -1,0 +1,6 @@
+[package]
+name = "Grade_Classifier_App"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
